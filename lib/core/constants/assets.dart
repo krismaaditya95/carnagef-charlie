@@ -1,0 +1,1 @@
+const String appIcon = 'assets/images/icons/todo_icon.png';
